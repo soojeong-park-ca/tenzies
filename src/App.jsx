@@ -4,7 +4,7 @@ import { nanoid } from "nanoid";
 import Confetti from "react-confetti";
 import { useWindowSize } from "react-use";
 
-function App() {
+export default function App() {
   const { width, height } = useWindowSize();
 
   const [dice, setDice] = useState(allNewDice());
@@ -170,5 +170,3 @@ function App() {
     </main>
   );
 }
-
-export default App;
