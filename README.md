@@ -25,7 +25,7 @@ Mobile version:<br/><br/>
 
 ### Demo Link
 
-- Live Site URL: https://soojeong-park-ca.github.io/tenzies/
+- Live Site URL: (to be added soon)
 
 ## About the Project
 
