@@ -15,10 +15,13 @@ A quick and simple game of Tenzi built with React.
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
-![](tenzies-desktop.png)
-![](tenzies-mobile.png)
+Desktop version:<br/><br/>
+<img src="./tenzies-desktop.png" width="800">
+
+Mobile version:<br/><br/>
+<img src="./tenzies-mobile.png" width="300">
 
 ### Demo Link
 
