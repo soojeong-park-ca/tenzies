@@ -5,7 +5,7 @@ A quick and simple game of Tenzi built with React.
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Demo Link](#demo-link)
 - [About the Project](#about-the-project)
   - [Status](#status)
