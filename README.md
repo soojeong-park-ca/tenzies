@@ -22,7 +22,7 @@ A quick and simple game of Tenzi built with React.
 
 ### Demo Link
 
-- Live Site URL: [https://soojeong-park-ca.github.io/tenzies/]
+- Live Site URL: https://soojeong-park-ca.github.io/tenzies/
 
 ## About the Project
 
@@ -45,4 +45,4 @@ A quick and simple game of Tenzi built with React.
 
 Soojeong Park
 
-- twitter: [@codingsooj] (https://twitter.com/codingsooj)
+@codingsooj https://twitter.com/codingsooj
