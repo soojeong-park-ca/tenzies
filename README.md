@@ -21,9 +21,9 @@ Demo video:
 <video src="https://user-images.githubusercontent.com/126619528/224119004-e2c7e9bf-12a3-49cc-aa61-d133d4e5d652.mov" type="video/mp4" controls>
 
 Screenshots (mobile version):<br/><br/>
-<img src="./tenzies-mobile1.jpg">
-<img src="./tenzies-mobile2.jpg">
-<img src="./tenzies-mobile3.jpg">
+<img src="./tenzies-mobile1.jpg" width="300">
+<img src="./tenzies-mobile2.jpg" width="300">
+<img src="./tenzies-mobile3.jpg" width="300">
 
 ### Demo Link
 
