@@ -81,7 +81,6 @@ body {
   border-radius: 3.81277px;
   cursor: pointer;
 
-  /* Die with Dots */
   display: grid;
   grid-template-areas: "a . c" "e g f" "d . b";
   align-items: center;
@@ -213,4 +212,66 @@ body {
   color: grey;
 
   cursor: pointer;
+}
+
+/* super small size screen */
+/* screen width <= 352px (22em) */
+@media (max-width: 22em) {
+  .App {
+    min-width: 16rem;
+    max-width: 16.5rem;
+  }
+
+  .dice-container {
+    gap: 0.55rem;
+    padding: 0.5rem;
+  }
+
+  .die-face {
+    width: 2.6rem;
+    height: 2.6rem;
+  }
+
+  .record-game {
+    font-size: 0.67rem;
+  }
+}
+
+/* screen width <= 272px (17em) */
+@media (max-width: 17em) {
+  .App {
+    min-width: 14.5rem;
+    max-width: 15rem;
+    height: auto;
+    padding-block: 1.5rem 2rem;
+  }
+
+  .text-container {
+    padding-inline: 1rem;
+  }
+
+  .dice-container {
+    grid-template-columns: auto auto;
+    grid-template-rows: repeat(5, 1fr);
+    gap: 1.2rem;
+    margin-block: 1rem 1.5rem;
+  }
+  .die-face {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  .record-game {
+    font-size: 0.75rem;
+  }
+  .record-game p:not(:first-child) {
+    width: 5rem;
+  }
+  .record-game p:not(:last-child) {
+    width: 4rem;
+  }
+
+  .footer {
+    padding-top: 0.5rem;
+  }
 }
