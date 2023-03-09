@@ -31,7 +31,9 @@ Mobile version:<br/><br/>
 
 ### Status
 
-🛠 Currently working on fixing CSS styling for smaller devices...
+🛠 Currently working on :
+- Fixing CSS styling for smaller devices
+- Looking for different libraries to use so I can fix the Invalid Hook Call Warning. It seems like the error is coming from having more than one `react` and `react-dom` dependecies besides my app. After doing some research online, I looked into the package.json files of the libraries I downloaded and they both have `react` and `react-dom` in the devDependencies.
 
 ### Built with
 
