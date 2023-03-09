@@ -18,7 +18,7 @@ A quick and simple game of Tenzi built with React.
 ### Screenshots
 
 Demo video:
-<video src="https://user-images.githubusercontent.com/126619528/224119004-e2c7e9bf-12a3-49cc-aa61-d133d4e5d652.mov" type="video/mp4" controls autoplay>
+<video src="https://user-images.githubusercontent.com/126619528/224119004-e2c7e9bf-12a3-49cc-aa61-d133d4e5d652.mov" type="video/mp4" controls>
 
 Desktop version:<br/><br/>
 <img src="./tenzies-desktop.png" width="800">
