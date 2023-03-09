@@ -4,7 +4,16 @@
   padding: 0;
 }
 
+html {
+  height: 100%;
+}
+
 body {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
   font-family: "Karla", sans-serif;
   background: #0b2434;
   padding: 4rem 0.5rem;
@@ -172,19 +181,36 @@ body {
 }
 
 .footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+
   font-family: "Inter", sans-serif;
   font-size: 0.8rem;
   color: white;
   padding: 0.3rem;
 }
 
-.footer a:link,
-.footer a:visited {
+.footer .twitterLink:link,
+.footer .twitterLink:visited {
   text-decoration: none;
   font-family: "Karla", sans-serif;
   font-size: 0.85rem;
   font-weight: 700;
   color: yellow;
+
+  cursor: pointer;
+}
+
+.footer .diceFaviconCopy:link,
+.footer .diceFaviconCopy:visited {
+  text-decoration: none;
+  font-family: "Karla", sans-serif;
+  font-size: 0.5rem;
+  font-weight: 400;
+  color: grey;
 
   cursor: pointer;
 }
