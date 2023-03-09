@@ -61,4 +61,4 @@ The technologies implemented in this project are React, HTML, JavaScript, JSX, a
 
 Soojeong Park
 
-[@codingsooj] (https://twitter.com/codingsooj)
+[@codingsooj](https://twitter.com/codingsooj)
