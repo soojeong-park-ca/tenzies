@@ -35,7 +35,7 @@ Screenshots (mobile version):<br/><br/>
 
 🛠 Currently working on :
 
-- Fixing CSS styling for smaller devices
+- deploying the app
 
 ### Built with
 
