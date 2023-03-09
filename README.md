@@ -37,7 +37,7 @@ Mobile version:<br/><br/>
 
 ### Built with
 
-- HTML5
+- HTML
 - CSS
 - React
 - Vite
@@ -61,4 +61,4 @@ The technologies implemented in this project are React, HTML, JavaScript, JSX, a
 
 Soojeong Park
 
-@codingsooj https://twitter.com/codingsooj
+[@codingsooj] (https://twitter.com/codingsooj)
