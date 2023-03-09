@@ -20,11 +20,10 @@ A quick and simple game of Tenzi built with React.
 Demo video:
 <video src="https://user-images.githubusercontent.com/126619528/224119004-e2c7e9bf-12a3-49cc-aa61-d133d4e5d652.mov" type="video/mp4" controls>
 
-Desktop version:<br/><br/>
-<img src="./tenzies-desktop.png" width="800">
-
-Mobile version:<br/><br/>
-<img src="./tenzies-mobile.png" width="300">
+Screenshots (mobile version):<br/><br/>
+<img src="./tenzies-mobile1.jpg">
+<img src="./tenzies-mobile2.jpg">
+<img src="./tenzies-mobile3.jpg">
 
 ### Demo Link
 
@@ -55,6 +54,7 @@ I added the following extra features not covered in the lecture:
 - tracking the number of rolls made to win the game
 - tracking the time it took to win the game
 - saving and bringing locally stored best time to display using localStorage
+- responsive web design
 
 One of the main challenges I ran into was saving and tracking the best time to win the game. Originally, I was trying to save all of the times tracked into an array in the localStorage, but realized that the purpose of keeping track of the time in my app was to renew the best time. Therefore, I decided to renew the time saved in the localStorage only when the time is shorter than the one already saved. This decision made the process simpler and fulfilled the goal of tracking only the best time.
 
