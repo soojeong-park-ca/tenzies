@@ -48,7 +48,7 @@ This was a week long project built from scratch while taking the fourth module o
 
 I added the following extra features not covered in the lecture:
 
-- making dice with CSS to use instead of dice with Arabic numerals
+- making dice with dots with CSS to use instead of dice with Arabic numerals
 - tracking the number of rolls made to win the game
 - tracking the time it took to win the game
 - saving and bringing locally stored best time to display using localStorage
