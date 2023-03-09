@@ -20,10 +20,10 @@ A quick and simple game of Tenzi built with React.
 Demo video:
 <video src="https://user-images.githubusercontent.com/126619528/224119004-e2c7e9bf-12a3-49cc-aa61-d133d4e5d652.mov" type="video/mp4" controls autoplay />
 
-Desktop version:
+Desktop version:<br/><br/>
 <img src="./tenzies-desktop.png" width="800">
 
-Mobile version:
+Mobile version:<br/><br/>
 <img src="./tenzies-mobile.png" width="300">
 
 ### Demo Link
