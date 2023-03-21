@@ -21,9 +21,9 @@ Demo video:
 
 Screenshots (mobile version):
 
-![Tenzies Mobile 1](./tenzies-mobile1.jpg)
-![Tenzies Mobile 2](./tenzies-mobile2.jpg)
-![Tenzies Mobile 3](./tenzies-mobile3.jpg)
+<img src="./tenzies-mobile1.jpg" width="100"/>
+<img src="./tenzies-mobile2.jpg" width="100"/>
+<img src="./tenzies-mobile3.jpg" width="100"/>
 
 ### Demo Link
 
