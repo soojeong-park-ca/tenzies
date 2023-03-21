@@ -18,24 +18,22 @@ A quick and simple game of Tenzi built with React.
 ### Screenshots
 
 Demo video:
-<video src="https://user-images.githubusercontent.com/126619528/224119004-e2c7e9bf-12a3-49cc-aa61-d133d4e5d652.mov" type="video/mp4" controls>
 
-Screenshots (mobile version):<br/><br/>
-<img src="./tenzies-mobile1.jpg" width="300">
-<img src="./tenzies-mobile2.jpg" width="300">
-<img src="./tenzies-mobile3.jpg" width="300">
+Screenshots (mobile version):
+
+![Tenzies Mobile 1](./tenzies-mobile1.jpg)
+![Tenzies Mobile 2](./tenzies-mobile2.jpg)
+![Tenzies Mobile 3](./tenzies-mobile3.jpg)
 
 ### Demo Link
 
-- Live Site URL: (to be added soon)
+**[💻 Live Site URL](https://tenzies-spark.netlify.app/)**
 
 ## About the Project
 
 ### Status
 
-🛠 Currently working on :
-
-- deploying the app
+✅ Completed & Deployed
 
 ### Built with
 
